@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shilla-jeju/static/css/main.58cd78fe.css",
+    "main.js": "/shilla-jeju/static/js/main.29d7e850.js",
+    "static/js/453.e4f80538.chunk.js": "/shilla-jeju/static/js/453.e4f80538.chunk.js",
+    "index.html": "/shilla-jeju/index.html",
+    "main.58cd78fe.css.map": "/shilla-jeju/static/css/main.58cd78fe.css.map",
+    "main.29d7e850.js.map": "/shilla-jeju/static/js/main.29d7e850.js.map",
+    "453.e4f80538.chunk.js.map": "/shilla-jeju/static/js/453.e4f80538.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58cd78fe.css",
+    "static/js/main.29d7e850.js"
+  ]
+}
